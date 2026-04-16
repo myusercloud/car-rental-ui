@@ -1,0 +1,290 @@
+[
+  {
+    "id": "lc-250",
+    "name": "Toyota Land Cruiser",
+    "type": "SUV",
+    "pricePerDay": 189,
+    "location": "San Diego, CA",
+    "rating": 4.8,
+    "reviewCount": 1284,
+    "availability": {
+      "isAvailableNow": true,
+      "availableFrom": "2026-04-10",
+      "availableTo": "2026-05-30"
+    },
+    "specs": {
+      "seats": 7,
+      "transmission": "Automatic",
+      "fuelType": "Diesel"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1594502184342-2e12f877aa73?w=1200&q=80",
+      "https://images.unsplash.com/photo-1551830820-5e364eb1a0af?w=1200&q=80",
+      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "bmw-5",
+    "name": "BMW 5 Series",
+    "type": "Luxury",
+    "pricePerDay": 159,
+    "location": "Austin, TX",
+    "rating": 4.7,
+    "reviewCount": 842,
+    "availability": {
+      "isAvailableNow": true,
+      "availableFrom": "2026-04-01",
+      "availableTo": "2026-04-25"
+    },
+    "specs": {
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Hybrid"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=1200&q=80",
+      "https://images.unsplash.com/photo-1520031441872-265e4ff70366?w=1200&q=80",
+      "https://images.unsplash.com/photo-1617814076668-1a2e1f4e8d68?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "tesla-model-3",
+    "name": "Tesla Model 3",
+    "type": "Electric",
+    "pricePerDay": 139,
+    "location": "San Jose, CA",
+    "rating": 4.9,
+    "reviewCount": 2031,
+    "availability": {
+      "isAvailableNow": true,
+      "availableFrom": "2026-04-16",
+      "availableTo": "2026-06-15"
+    },
+    "specs": {
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Electric"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1561580125-028ee3bd62eb?w=1200&q=80",
+      "https://images.unsplash.com/photo-1537984822441-cff330075342?w=1200&q=80",
+      "https://images.unsplash.com/photo-1620891549027-942fdc95d3f5?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "honda-civic",
+    "name": "Honda Civic",
+    "type": "Sedan",
+    "pricePerDay": 79,
+    "location": "Phoenix, AZ",
+    "rating": 4.6,
+    "reviewCount": 1562,
+    "availability": {
+      "isAvailableNow": true,
+      "availableFrom": "2026-03-20",
+      "availableTo": "2026-12-31"
+    },
+    "specs": {
+      "seats": 5,
+      "transmission": "Manual",
+      "fuelType": "Petrol"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1590362891991-f776e747a588?w=1200&q=80",
+      "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1200&q=80",
+      "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "ford-escape",
+    "name": "Ford Escape",
+    "type": "SUV",
+    "pricePerDay": 99,
+    "location": "Chicago, IL",
+    "rating": 4.5,
+    "reviewCount": 731,
+    "availability": {
+      "isAvailableNow": true,
+      "availableFrom": "2026-04-18",
+      "availableTo": "2026-04-30"
+    },
+    "specs": {
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=1200&q=80",
+      "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=1200&q=80",
+      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "audi-q7",
+    "name": "Audi Q7",
+    "type": "Luxury",
+    "pricePerDay": 219,
+    "location": "New York, NY",
+    "rating": 4.8,
+    "reviewCount": 1049,
+    "availability": {
+      "isAvailableNow": false,
+      "availableFrom": "2026-04-28",
+      "availableTo": "2026-05-20"
+    },
+    "specs": {
+      "seats": 7,
+      "transmission": "Automatic",
+      "fuelType": "Hybrid"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1606152421802-db97b9c7a11b?w=1200&q=80",
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1200&q=80",
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "nissan-altima",
+    "name": "Nissan Altima",
+    "type": "Sedan",
+    "pricePerDay": 85,
+    "location": "Denver, CO",
+    "rating": 4.4,
+    "reviewCount": 512,
+    "availability": {
+      "isAvailableNow": true,
+      "availableFrom": "2026-04-01",
+      "availableTo": "2026-05-05"
+    },
+    "specs": {
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1200&q=80",
+      "https://images.unsplash.com/photo-1550355291-bbee04a92027?w=1200&q=80",
+      "https://images.unsplash.com/photo-1542362567-b07e54358753?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "rivian-r1t",
+    "name": "Rivian R1T",
+    "type": "Electric",
+    "pricePerDay": 199,
+    "location": "Seattle, WA",
+    "rating": 4.7,
+    "reviewCount": 618,
+    "availability": {
+      "isAvailableNow": true,
+      "availableFrom": "2026-04-14",
+      "availableTo": "2026-06-05"
+    },
+    "specs": {
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Electric"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1675299594105-5de0bfd2b62e?w=1200&q=80",
+      "https://images.unsplash.com/photo-1619767886558-efdc259cde1a?w=1200&q=80",
+      "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "mercedes-e",
+    "name": "Mercedes E-Class",
+    "type": "Luxury",
+    "pricePerDay": 189,
+    "location": "Miami, FL",
+    "rating": 4.8,
+    "reviewCount": 904,
+    "availability": {
+      "isAvailableNow": true,
+      "availableFrom": "2026-04-16",
+      "availableTo": "2026-07-01"
+    },
+    "specs": {
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Hybrid"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=1200&q=80",
+      "https://images.unsplash.com/photo-1553440569-bcc63803a83d?w=1200&q=80",
+      "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "toyota-rav4",
+    "name": "Toyota RAV4",
+    "type": "SUV",
+    "pricePerDay": 109,
+    "location": "Los Angeles, CA",
+    "rating": 4.6,
+    "reviewCount": 1733,
+    "availability": {
+      "isAvailableNow": true,
+      "availableFrom": "2026-04-10",
+      "availableTo": "2026-05-12"
+    },
+    "specs": {
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Hybrid"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=1200&q=80",
+      "https://images.unsplash.com/photo-1568844293986-8d0400bd4745?w=1200&q=80",
+      "https://images.unsplash.com/photo-1559416523-140ddc3d238c?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "volkswagen-jetta",
+    "name": "Volkswagen Jetta",
+    "type": "Sedan",
+    "pricePerDay": 72,
+    "location": "Columbus, OH",
+    "rating": 4.3,
+    "reviewCount": 388,
+    "availability": {
+      "isAvailableNow": false,
+      "availableFrom": "2026-04-22",
+      "availableTo": "2026-05-09"
+    },
+    "specs": {
+      "seats": 5,
+      "transmission": "Manual",
+      "fuelType": "Diesel"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1471479917193-f00955256257?w=1200&q=80",
+      "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=1200&q=80",
+      "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "polestar-2",
+    "name": "Polestar 2",
+    "type": "Electric",
+    "pricePerDay": 149,
+    "location": "Boston, MA",
+    "rating": 4.7,
+    "reviewCount": 557,
+    "availability": {
+      "isAvailableNow": true,
+      "availableFrom": "2026-04-16",
+      "availableTo": "2026-04-29"
+    },
+    "specs": {
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Electric"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1623869675781-80aa31012a5a?w=1200&q=80",
+      "https://images.unsplash.com/photo-1630897558191-db0bed58f4ca?w=1200&q=80",
+      "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1200&q=80"
+    ]
+  }
+]
