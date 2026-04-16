@@ -23,7 +23,7 @@ export default function PriceRangeSlider({
         </Text>
       </Box>
       <RangeSlider
-        aria-label="Price range slider"
+        aria-label={['min price', 'max price']}
         min={min}
         max={max}
         step={1}
